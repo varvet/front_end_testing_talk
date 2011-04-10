@@ -1,0 +1,23 @@
+{
+  "name": "The Front End Testing Frontier",
+  "sections": [
+    {
+      "section":"01_intro"
+    },
+    {
+      "section":"02_integration_tests"
+    },
+    {
+      "section":"03_capybara"
+    },
+    {
+      "section":"04_unit_tests"
+    },
+    {
+      "section":"05_evergreen"
+    },
+    {
+      "section":"06_closing"
+    }
+  ]
+}
