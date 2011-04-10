@@ -1,12 +1,11 @@
 body {
-  font-family: 'Akkurat', 'sans-serif';
+  font-family: 'Akkurat', 'Helvetica', sans-serif;
   color: white;
 }
 .slide h1, .slide h2 {
-  font-family: 'League Gothic';
+  font-family: 'League Gothic', 'Helvetica Neue', sans-serif;
   font-size: 96px;
   text-transform: uppercase;
-  letter-spacing: 2px;
   line-height: 120%;
   margin: 0;
 }
@@ -16,6 +15,15 @@ body {
 }
 .slide ul li {
   font-size: 36px;
+}
+
+.slide a:link, .slide a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.slide a:hover, .slide a:active {
+  text-decoration: underline;
 }
 
 .slide {
