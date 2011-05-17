@@ -1,3 +1,0 @@
-!SLIDE purple
-
-# Unit testing

@@ -50,18 +50,6 @@
 
 !SLIDE
 
-# Templates
-
-!SLIDE blue
-
-# Template fragments
-
-!SLIDE blue
-
-# Reloaded for each test
-
-!SLIDE
-
 # Running tests
 
 !SLIDE blue
