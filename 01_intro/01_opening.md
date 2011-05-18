@@ -1,7 +1,7 @@
 !SLIDE splash
 
-# The Front End
-# Testing Frontier
+# Getting Started With
+# JavaScript Testing
 
 ### CJ Kihlbom – @cjkihlbom
 #### Jonas Nicklas – @jonicklas
