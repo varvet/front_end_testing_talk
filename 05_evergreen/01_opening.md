@@ -64,4 +64,6 @@
 
 # Any Capybara driver
 
-!SLIDE capy5
+!SLIDE purple
+
+# Demo!

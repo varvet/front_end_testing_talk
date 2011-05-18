@@ -32,7 +32,7 @@ body {
 .slide.splash {
   background: url('splash.png') center no-repeat;
 }
-.slide.splash h1 {
+.slide .splash h1 {
   text-align: left;
   padding-left: 50px;
   margin: 20px 0;
@@ -63,12 +63,13 @@ body {
 .slide.capy6 {
   background: url('capy6.jpg') 0 0 no-repeat;
 }
-.slide:first-child h3, .slide:last-child h3 {
+.slide .splash h3 {
   text-align: left;
   padding-left: 50px;
   margin: 200px 0 0;
 }
-.slide:first-child h4, .slide:last-child h4 {
+
+.slide .splash h4 {
   text-align: left;
   padding-left: 50px;
   margin: 20px 0 0;
@@ -86,7 +87,7 @@ body {
 }
 
 .slide table td, .slide table th {
-  font-size: 36px;
+  font-size: 32px;
   text-align: left;
   font-weight: normal;
   padding: 10px 15px;
@@ -111,7 +112,6 @@ body {
   font-family: 'Monaco' !important;
 }
 
-.slide.code {
-
-
+.slide.code.small pre {
+  font-size: 22px;
 }

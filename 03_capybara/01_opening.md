@@ -38,18 +38,23 @@
     </tr>
     <tr>
       <th>Selenium</th>
-      <td>Real browser<br/>JS &amp; CSS</td>
-      <td>Slow<br/>Requires GUI</td>
+      <td>Real browser</td>
+      <td>Slow,<br/>requires GUI</td>
     </tr>
     <tr>
       <th>Akephalos</th>
-      <td>Headless<br/>Good JS support</td>
+      <td>Headless,<br/>good JS support</td>
       <td>Pretty slow</td>
     </tr>
     <tr>
       <th>capybara-envjs</th>
-      <td>Fast, Headless</td>
+      <td>Fast, headless</td>
       <td>Bad JS support</td>
+    </tr>
+    <tr>
+      <th>capybara-webkit</th>
+      <td>Headless, real browser</td>
+      <td>Unproven</td>
     </tr>
   </tbody>
 </table>
@@ -65,4 +70,6 @@
     @selenium
     Scenario: now uses Selenium
 
-!SLIDE capy3
+!SLIDE
+
+# Demo!

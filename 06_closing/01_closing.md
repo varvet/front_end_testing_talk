@@ -1,16 +1,6 @@
-!SLIDE purple
-
-# Demo!
-
-!SLIDE purple
-
-# Questions?
-
-!SLIDE capy6
-
 !SLIDE splash
 
-# Thank you!
+# Questions?
 
 ### Jonas Nicklas – @jonicklas
 #### CJ Kihlbom – @cjkihlbom
